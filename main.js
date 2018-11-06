@@ -23,6 +23,7 @@ drugi.addEventListener('dblclick', function() {
 
 treci.addEventListener('mouseover', function() {
     treci.style.backgroundColor = 'crimson'
+    treci.innerText = 'Dobrodosli!'
 })
 
 cetvrti.addEventListener('mouseout', function() {
