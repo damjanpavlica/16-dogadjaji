@@ -1,0 +1,31 @@
+div {
+    width: 200px;
+    height: 200px;
+    margin: 40px;
+    display: inline-block;
+}
+
+.crveni {
+    background: red;
+}
+
+.plavi {
+    background: blue;
+}
+
+.zeleni {
+    background: green;
+}
+
+.crni {
+    background: black;
+    color: white;
+}
+
+.zuti {
+    background: yellow;
+}
+
+.ljubicasti {
+    background: purple;
+}
